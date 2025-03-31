@@ -17,7 +17,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'Voces Decoloniales: Testimonios Femeninos de la Resistencia Viequense'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://coleccionhistoriasoralesdemujeres.github.io'
 baseurl:          '/Coleccion'
