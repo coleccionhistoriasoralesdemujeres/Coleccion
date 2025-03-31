@@ -99,16 +99,14 @@ search:
 menu:
   - label: 'Inicio'
     link: '/inicio/'
-  - label: 'Exhibits'
-    link: '/exhibits/a/'
-  - label: 'Inline Image References'
-    link: '/exhibits/b/'
-  - label: 'Browse'
-    link: '/collection/'
-  - label: 'Search'
-    link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
+  - label: 'Sobre Nosotros'
+    link: '/sobre nosotros/a/'
+  - label: 'Colección'
+    link: '/colección/'
+  - label: 'Recursos de Referencia'
+    link: '/recursos de referencia/'
+  - label: 'Imágenes'
+    link: '/imágenes/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
