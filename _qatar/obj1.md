@@ -2,7 +2,7 @@
 pid: obj1
 artist: Al-Hajj Hafiz Muhammad Nuri
 location: Turkey
-label: AlianzadeMujeresViequenses_AHVWax
+label: 
 _date: '1801'
 object_type: imagen
 current_location: The Museum of Islamic Art, Qatar
@@ -10,6 +10,6 @@ source: https://commons.wikimedia.org/wiki/File:Al-Hajj_Hafiz_Muhammad_Nuri,_Tur
 order: '00'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/AlianzadeMujeresViequenses_AHVWax.jpg"
-full: "/img/AlianzadeMujeresViequenses_AHVWax.jpg"
+thumbnail: 
+full: 
 ---
