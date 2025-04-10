@@ -2,7 +2,7 @@
 pid: obj10
 artist: Unknown
 location: Iran
-label: Imágen con AHV
+label: Logo
 _date: 1800 - 1850
 object_type: Imágenes
 current_location: The Museum of Islamic Art, Qatar
@@ -10,6 +10,6 @@ source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_early_19th_Centur
 order: '09'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/ArchivoHistóricodeVieques_AHVWax.jpg"
-full: "/img/ArchivoHistóricodeVieques_AHVWax.jpg"
+thumbnail: "/img/Logo_AHVWax.jpg"
+full: "/img/Logo_AHVWax.jpg"
 ---
