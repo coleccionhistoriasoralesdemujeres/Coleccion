@@ -2,7 +2,7 @@
 pid: obj12
 artist: Bahādur Fīrūz, ʻAbd Allāh Khān
 location: Middle East and North Africa
-label: Excerpt from 'The Book of Horses' (فَرَس نامه [رسالة في الخيول)
+label: Imágen con Archivo Histórico de Vieques
 _date: Around 1628 - 1658
 object_type: Imágenes
 current_location: Qatar National Library
