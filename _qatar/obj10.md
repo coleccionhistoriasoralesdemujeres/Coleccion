@@ -10,6 +10,6 @@ source: https://commons.wikimedia.org/wiki/File:Unknown,_Iran,_early_19th_Centur
 order: '09'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/Logo_AHVWax.jpg"
-full: "/img/Logo_AHVWax.jpg"
+thumbnail: "/img/Logo_AHVWax.2.jpg"
+full: "/img/Logo_AHVWax.2.jpg"
 ---
