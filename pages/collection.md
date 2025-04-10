@@ -12,10 +12,10 @@ This site's sample collection comprises a set of objects, each of which is repre
 ## By Object Type
 
 ### Historias Orales
-{% include collection_gallery.html facet_by='object_type' only='manuscript' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' only='Historias Orales' collection='qatar' %}
 ### Imágenes
-{% include collection_gallery.html facet_by='object_type' only='portrait' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' only='Imágenes' collection='qatar' %}
 ### Trancripciones
-{% include collection_gallery.html facet_by='object_type' only='map' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' only='Trancripciones' collection='qatar' %}
 ### Audio
-{% include collection_gallery.html facet_by='object_type' only='panel' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' only='Audio' collection='qatar' %}
